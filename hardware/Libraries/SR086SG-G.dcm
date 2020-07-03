@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SR086SG-G
+D Adj Switching Reg, 9V-50V, 100mA, SOIC W
+K
+F https://componentsearchengine.com/Datasheets/1/SR086SG-G.pdf
+$ENDCMP
+#
+#End Doc Library
