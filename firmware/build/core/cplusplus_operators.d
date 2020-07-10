@@ -1,0 +1,24 @@
+build/core//cplusplus_operators.o: \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/cplusplus_operators.cpp \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/stdio.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/newlib.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_newlib_version.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/config.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/features.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/reent.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/lock.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_stdint.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_pthreadtypes.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/stdio.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/stdlib.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/stdlib.h

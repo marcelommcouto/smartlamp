@@ -1,0 +1,34 @@
+build/core//esp_spi.o: \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/esp_spi.c \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/spi.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/stdint.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/features.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_newlib_version.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_stdint.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/spi_regs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/common_macros.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/clocks.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/iomux.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/iomux_regs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/gpio.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/gpio_regs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/rtc_regs.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/core/include/esp/interrupts.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/FreeRTOS/Source/portable/esp8266/xtruntime.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/string.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/newlib.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/config.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/reent.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/_ansi.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/machine/_types.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/lock.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/xlocale.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/strings.h \
+ /home/shadowfox/Projects/Toolchains/esp-open-rtos/libc/xtensa-lx106-elf/include/sys/string.h
